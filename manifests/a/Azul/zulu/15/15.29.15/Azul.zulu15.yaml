@@ -1,0 +1,22 @@
+PackageIdentifier: Azul.zulu15
+PackageVersion: 15.29.15
+PackageName: zulu15
+Publisher: Azul
+Moniker: zulu-jdk-15
+PackageUrl: https://www.azul.com/downloads/zulu-community
+License: GPLv2
+Tags:
+- openjdk
+- java
+- jvm
+- jdk
+ShortDescription: Open source implementations of Java SE that are free to use without restrictions
+Installers:
+- Architecture: x64
+  InstallerUrl: https://cdn.azul.com/zulu/bin/zulu15.29.15-ca-jdk15.0.2-win_x64.msi
+  InstallerType: msi
+  InstallerSha256: 1d8412b4e31ade5fdcf596de7b398e83f82bb11e848bfe12a2df305a03f0e155
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.0.0
+
